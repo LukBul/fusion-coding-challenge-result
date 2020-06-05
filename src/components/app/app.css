@@ -1,0 +1,18 @@
+.app{
+  max-width: 1200px;
+  min-height: 90vh;
+  margin: 0 auto;
+  border: 2px solid #000;
+  margin-top: 20px;
+  padding: 20px;
+  box-shadow: 0 0 6px rgba(0,0,0,0.3);
+  box-sizing: border-box;
+}
+
+.chartField{
+  text-align: center;
+}
+
+.empty{
+  padding-top: 10px;
+}

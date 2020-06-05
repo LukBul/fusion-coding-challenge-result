@@ -1,0 +1,32 @@
+.navigation{
+  text-align: center;
+  border-bottom: 2px solid gainsboro;
+}
+
+.btn{
+  outline: none;
+  height: 40px;
+  background: #FFFFFF;
+  border-radius: 22px;
+  border: none;
+  background-color:#e8e8e8;
+  font-size: 16px;
+  line-height: 20px;
+  cursor: pointer;
+  margin: 10px;
+  transition: .5s;
+  padding: 10px 20px;
+}
+
+.btn:hover{
+  background-color: #6c757d;
+  color: #fff;
+}
+
+.btn-info{
+  background-color: #17a2b8;
+}
+
+.btn-info:hover{
+  background-color: #17a2b8;
+}
